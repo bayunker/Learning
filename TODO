@@ -1,1 +1,10 @@
 This file will have tasks to complete :)
+
+So I mentioned encapsulation in the car, which is an important principal to object-oriented programming. You should figure read a little about object-oriented vs. procedural programming. What you did this morning was procedural i.e. it had a sequence of instructions that the iterpreter executed and then it was finished (not an entire definition, but that's the basic idea). 
+You first task is to create a Python class called Person that stores a first and last name, as well as an age. I want to be able to say:
+
+me = Person('Alex', 'Notwell', 20)
+print me.age()
+
+This should be plenty to do. If you get stuck, push your code and I can take a look at it to see where you are ;)
+
