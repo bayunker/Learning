@@ -1,0 +1,18 @@
+Here are some things to remember:
+
+cd <folder> - Change directory to that folder
+cd .. - Go to the parent folder
+cd ~ - Go to home folder
+
+ls - List files in current directory
+ls -a - List all files including hidden files
+ls -l - List files with details
+
+rm <file> - Remove file
+rm -R <folder> - Remove folder and all its contents (the R stands for recursive)
+
+git pull - Pulls changes from remote repository
+git push origin master - Push changes to remote repository
+git add <file> - Add file to be tracked
+git commit -m "<message>" - Commits changes
+
